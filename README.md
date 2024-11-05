@@ -43,10 +43,6 @@ To get started with the project, clone the repository and follow the setup instr
 4. Set up the database and migrate the schema.
 5. Run the server and open the application in your web browser.
 
-## Contribution
-
-Contributions are welcome! If you have suggestions for improvements, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
